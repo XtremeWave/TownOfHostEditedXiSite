@@ -1,17 +1,8 @@
 ---
 home: true
 title: 首页
-heroImage: https://cn-sy1.rains3.com/xtremewave/TOHEX-BG.jpg
+heroImage: /TOHEX.jpg
 externalLinkIcon: false
-actions:
-
-  - text: 前往XtremeWave官方网站
-    link: https://www.xtreme.net.cn
-    type: primary
-  - text: 前往TONEX官方网站
-    link: https://tonex.cc
-    type: secondary
-    
 footer: Copyright © 2023-2024 Team-TOHEX
 ---
 <hr>
