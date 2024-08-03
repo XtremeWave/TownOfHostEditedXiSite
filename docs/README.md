@@ -1,7 +1,7 @@
 ---
 home: true
 title: 首页
-heroImage: /TOHEX.jpg
+heroImage: /TOHEX-BG.png
 externalLinkIcon: false
 footer: Copyright © 2023-2024 Team-TOHEX
 ---
